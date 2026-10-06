@@ -1,0 +1,1 @@
+export default function SalesPage(){return <iframe src="/sales-static/index.html" title="FieldFlow Sales" style={{position:"fixed",inset:0,width:"100%",height:"100%",border:0}} />}
